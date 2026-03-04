@@ -27,5 +27,5 @@ Me adapto tanto a proyectos empresariales (sistemas de facturación, inventarios
 - **Videojuego Arcade** → [Ver proyecto](link-al-repo)
 
 ## 📬 Contacto
-- LinkedIn: https://www.linkedin.com/in/eduardo-flores-373a24318
+- LinkedIn: [Eduardo Flores](https://www.linkedin.com/in/eduardo-flores-373a24318)
 - Email: jostinalfaro540@gmail.com
