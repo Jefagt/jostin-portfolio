@@ -22,7 +22,7 @@ Me adapto tanto a proyectos empresariales (sistemas de facturación, inventarios
 - **Administrador de Inventario** → [Ver proyecto](link-al-repo)
 - **Sistema de Autenticación** → [Ver proyecto](link-al-repo)
 - **API REST en C#** → [Ver proyecto](link-al-repo)
-- **Mini E-commerce** → [🔗 Ver proyecto](https://jefagt.github.io/portafolio-jefagt-gx/)
+- **Mini E-commerce** → [Ver proyecto](https://jefagt.github.io/portafolio-jefagt-gx/)
 - **Dashboard Administrativo** → [Ver proyecto](link-al-repo)
 - **Videojuego Arcade** → [Ver proyecto](link-al-repo)
 
