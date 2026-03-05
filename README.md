@@ -24,7 +24,7 @@ Me adapto tanto a proyectos empresariales (sistemas de facturación, inventarios
 - **API REST en C#** → [Ver proyecto](link-al-repo)
 - **Mini E-commerce** → [Ver proyecto](https://jefagt.github.io/portafolio-jefagt-gx/)
 - **Dashboard Administrativo** → [Ver proyecto](link-al-repo)
-- **Sección Gaming** → [Ver proyecto](https://jefagt.github.io/portafolio-jefagt-gx/)
+- **Portfolio Gaming** → [Ver proyecto](https://jefagt.github.io/portafolio-jefagt-gx/)
 
 ## 📬 Contacto
 - LinkedIn: [Eduardo Flores](https://www.linkedin.com/in/eduardo-flores-373a24318)
